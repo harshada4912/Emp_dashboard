@@ -15,17 +15,40 @@ The dataset used in this project is **Dashboard.csv**, which contains informatio
 - Salary / Bonus  
 - Attendance / Working Days  
 - Performance Rating  
-- Join Date / Experience  
+- Join Date / Experience
+
+
+
+
+## 🚀 Key Performance Indicators (KPIs)
+
+- ✅ **Total Employee**  
+- ✅ **Total Salary**  
+- ✅ **Total Left Employee**  
+- ✅ **Active Employee**  
+- ✅ **Total City**  
+- ✅ **Average Salary**  
+
+---
+
+## 📈 Pivot Insights & Analysis
+
+1. Department-wise Salary  
+2. Employee by Age Group  
+3. Employee Count by Business Unit  
+4. Employee by Country  
+5. Average Bonus % by Department  
+6. Hires per Year   
+7. Bonus % Distribution  
 
 
 
 ---
 
-## 🧰 Tools & Technologies
-- **Microsoft Excel** — for data cleaning and dashboard visualization  
-- **Power BI (optional)** — for interactive reports and charts  
-- **Python (pandas, matplotlib)** — for deeper data analysis *(if applicable)*  
-- **GitHub** — for project version control and sharing  
+## 🧰 Tools
+
+- **Microsoft Excel** → PivotTables, Slicers, Charts, Conditional Formatting  
+- **GitHub** → Version control and project hosting 
 
 ---
 
